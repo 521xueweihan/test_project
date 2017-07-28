@@ -3,6 +3,4 @@
 
 first commit
 
-1234567
-
-commit test with new id
+a482026
